@@ -1,2 +1,3 @@
 # HW-5-Matplotlib
-Homework repo for Matplotlib week 5
+Homework repo for Matplotlib week 
+Based on the scatter plot the Urban rides have the larger count and lowest fares. 2) In contrast, the Rural rides have the least count and highest fares, with Suburban nestled between Urban & Rural. The higher fares probably reflect the low volume of drivers and longer distances in Rural areas, in contrast to more drivers and shorter travel distance in Urban areas. 3) Suburban ride fares average 30𝑡𝑜 35 when the daily ride count is 10 to 25 rides.
